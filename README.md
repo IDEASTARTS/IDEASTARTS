@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IDEASTARTS
-- 👀 I’m interested in development of my apps ideastars.com
+- 👀 I’m interested in development of my apps ideastarts.com
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on the first project Switcher
 - 📫 How to reach me ideastarts.com@gmail.com
